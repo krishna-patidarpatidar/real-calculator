@@ -1,0 +1,60 @@
+*{
+    margin: 0% ;
+    padding: 0% ;
+}
+h2{
+    height:25px ;
+    width: 217px;
+      padding: 10px 10px;
+      margin-bottom: 20px;
+      margin-top: 10px;
+     color: black;
+    border-radius: 20px;
+    background-color: #dae4e8;
+     text-align: right;
+     overflow: hidden;
+     
+}
+.d-flax{
+    display: flex;
+    
+}
+.flax{
+    flex: 1;
+}
+.color{
+    color: aqua;
+}
+button{
+   padding: 17px;
+   margin: 2px;
+
+   border-radius: 25px;
+   box-shadow: 0px 0px 15px 1px #3bebfba0;
+   outline-color:black ;
+   background-color: black;
+   color: #ffff;
+   border: none;
+   
+
+}
+button:hover{
+    background-color:cadetblue;
+    outline: none;
+    border: none;
+    color: rgb(226, 226, 172);
+
+}
+
+.main{
+    padding: 10px;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: rgba(16, 78, 18, 0.445);
+    margin: 0% auto;
+    margin-top: 50px;
+    
+}
+body{
+    display: flex;
+}
